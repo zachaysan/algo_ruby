@@ -1,0 +1,4 @@
+api_location:
+  host: algoanywhere.com
+  port: 443
+  path: /api/
